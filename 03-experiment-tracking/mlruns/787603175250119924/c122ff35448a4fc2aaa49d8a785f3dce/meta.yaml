@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/laurabarros/Desktop/MLOps/nyc-taxis/03-experiment-tracking/mlruns/787603175250119924/c122ff35448a4fc2aaa49d8a785f3dce/artifacts
+end_time: 1761736267722
+entry_point_name: ''
+experiment_id: '787603175250119924'
+lifecycle_stage: active
+run_id: c122ff35448a4fc2aaa49d8a785f3dce
+run_name: bustling-hen-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761736262481
+status: 3
+tags: []
+user_id: laurabarros

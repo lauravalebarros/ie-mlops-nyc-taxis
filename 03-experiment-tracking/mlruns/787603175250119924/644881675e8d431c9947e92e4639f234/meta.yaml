@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/laurabarros/Desktop/MLOps/nyc-taxis/03-experiment-tracking/mlruns/787603175250119924/644881675e8d431c9947e92e4639f234/artifacts
+end_time: 1761736272610
+entry_point_name: ''
+experiment_id: '787603175250119924'
+lifecycle_stage: active
+run_id: 644881675e8d431c9947e92e4639f234
+run_name: luxuriant-sow-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761736270245
+status: 3
+tags: []
+user_id: laurabarros

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/laurabarros/Desktop/MLOps/nyc-taxis/03-experiment-tracking/mlruns/787603175250119924/de25ae8f36504cbcb8ee06dc370b5cd3/artifacts
+end_time: 1761736270237
+entry_point_name: ''
+experiment_id: '787603175250119924'
+lifecycle_stage: active
+run_id: de25ae8f36504cbcb8ee06dc370b5cd3
+run_name: salty-shrike-464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761736267731
+status: 3
+tags: []
+user_id: laurabarros

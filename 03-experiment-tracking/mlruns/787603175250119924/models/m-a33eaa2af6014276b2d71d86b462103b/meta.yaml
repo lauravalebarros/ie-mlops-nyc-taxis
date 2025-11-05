@@ -1,0 +1,10 @@
+artifact_location: file:///Users/laurabarros/Desktop/MLOps/nyc-taxis/03-experiment-tracking/mlruns/787603175250119924/models/m-a33eaa2af6014276b2d71d86b462103b/artifacts
+creation_timestamp: 1761734530509
+experiment_id: '787603175250119924'
+last_updated_timestamp: 1761734532831
+model_id: m-a33eaa2af6014276b2d71d86b462103b
+model_type: null
+name: models
+source_run_id: 9d8a30bae695472abc64307233c51c91
+status: 2
+status_message: null
